@@ -1,8 +1,14 @@
-
+import Start from "./first";
 function App() {
 
   return (
-    <h1>Learning Vite | Aamir Neyazi</h1>
+    <div>
+      <Start/>
+      <h1>I am Learning React</h1>
+      <p>I am new in this javascript library</p>
+
+    </div>
+    
   )
 }
 
