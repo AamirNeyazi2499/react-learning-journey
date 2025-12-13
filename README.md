@@ -8,7 +8,7 @@ It includes small exercises, experiments, notes, and mini projects that help me 
 - Basics of React  
 - JSX practice  
 - Components, props and state  
-- Hooks (useState, useEffect and more)  
+- Hooks (useState, useEffect and more) 
 - Event handling  
 - Forms and validation  
 - API calls and async tasks  
