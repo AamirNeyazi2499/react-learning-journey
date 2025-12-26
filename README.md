@@ -18,5 +18,6 @@ It includes small exercises, experiments, notes, and mini projects that help me 
 - Mini projects  
 - Markdown notes  
 
-## Folder Structure
+## Folder Structure 
+
 
