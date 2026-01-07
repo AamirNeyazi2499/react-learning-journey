@@ -6,7 +6,7 @@ It includes small exercises, experiments, notes, and mini projects that help me 
 ## Contents
  
 - Basics of React  
-- JSX practice  
+- JSX practice   
 - Components, props and state   
 - Hooks (useState, useEffect and more)  
 - Event handling  
