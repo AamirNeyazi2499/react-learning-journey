@@ -11,7 +11,7 @@ It includes small exercises, experiments, notes, and mini projects that help me 
 - Hooks (useState, useEffect and more)  
 - Event handling  
 - Forms and validation  
-- API calls and async tasks  
+- API calls and async tasks   
 - Routing practice  
 - Context API  
 - Custom hooks  
