@@ -4,7 +4,7 @@ This repository covers my complete learning progress in React from the very begi
 It includes small exercises, experiments, notes, and mini projects that help me understand how React works in real development.   
  
 ## Contents
- 
+  
 - Basics of React  
 - JSX practice
 - Components, props and state      
